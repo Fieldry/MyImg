@@ -1,0 +1,2 @@
+# MyImg
+Hexo images
